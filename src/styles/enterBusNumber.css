@@ -1,0 +1,9 @@
+.busNumber {
+    margin-bottom: 20px;
+}
+
+#busNumberInput {
+    margin-right: 15px;
+    width: 200px;
+    float: left;
+}
